@@ -4,7 +4,7 @@
 - ⚡ I'm a Microsoft Fan boy... Azure with .Net
 - 🌱 I’m currently working on a multi-social media integrator
 
-- **Blog (WIP)**: [mooncake](https://jolly-mooncake-5d4bd2.netlify.app/)
+- **Website**: [cjw-dev](https://cjw-dev.netlify.app)
 - **Twitter**: [CalWalterWhite](https://twitter.com/CalWalterWhite)
 
 <!--
