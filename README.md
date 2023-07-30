@@ -5,7 +5,6 @@
 - 🌱 I’m currently working on a multi-social media integrator
 
 - **Website**: [cjw-dev](https://cjw-dev.com)
-- **Twitter**: [CalWalterWhite](https://twitter.com/CalWalterWhite)
 
 <!--
 **CallumWalterWhite/CallumWalterWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
