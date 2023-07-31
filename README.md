@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at MHR as a Tech Lead
+- 🔭 I’m currently working at MHR as a Data Engineer
 - ⚡ I'm a Microsoft Fan boy... Azure with .Net
-- 🌱 I’m currently working on a multi-social media integrator
 
 - **Website**: [cjw-dev](https://cjw-dev.com)
 
