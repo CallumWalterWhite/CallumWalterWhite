@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at MHR as a Staff Data Engineer
-- ⚡ I'm a Microsoft Fan boy... Azure with .Net
+- ⚡ Enjoy working on large data problems
 
 - **Website**: [cjw-dev](https://cjw-dev.com)
 
