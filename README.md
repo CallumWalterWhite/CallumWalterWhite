@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at MHR as a Staff Data Engineer
+- 🔭 I’m currently working at Partners Capital as Software Engineer
 - ⚡ Enjoy working on large data problems
 
 - **Website**: [cjw-dev](https://cjw-dev.com)
