@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Partners Capital as a Software Engineer
+- 🔭 I’m currently working at Expedition as a Data Platform Engineer
 - ⚡ Enjoy working on large data problems
 
 - **Website**: [cjw-dev](https://cjw-dev.com)
