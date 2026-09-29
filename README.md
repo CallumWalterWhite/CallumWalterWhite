@@ -63,11 +63,6 @@ callum@london:~$ _
 | :-- | :-- |
 | [**langbridge**](https://github.com/langbridgedev/langbridge) `Python` | Open source, self-hostable agentic analytics runtime. Connectors, semantic models, federated queries, an MCP endpoint and a runtime UI. Work in progress. |
 | [**envoy-aspnetcore-microservices**](https://github.com/CallumWalterWhite/envoy-aspnetcore-microservices) `C#` | ASP.NET microservices behind an Envoy gateway. gRPC, RabbitMQ and MassTransit, MongoDB, Redis, PostgreSQL, CQRS and Clean Architecture. |
-| [**agentsync**](https://github.com/CallumWalterWhite/agentsync) `Rust` | Session continuity for AI coding agents. Resume, sync and recover conversations across devices and providers. |
-| [**expedition-signal**](https://github.com/CallumWalterWhite/expedition-signal) `Python` | Signal extraction for company intelligence. |
-| [**gravity_simulator**](https://github.com/CallumWalterWhite/gravity_simulator) `C++` | N-body gravity, rendered for the joy of it. |
-| [**neovim-config**](https://github.com/CallumWalterWhite/neovim-config) `Lua` | My editor, tuned until it feels like an extension of my hands. |
-| [**Aillum**](https://github.com/CallumWalterWhite/Aillum) `JavaScript` | Experiments at the front end of AI. |
 
 ## `~ $ ./stats.sh`
 
