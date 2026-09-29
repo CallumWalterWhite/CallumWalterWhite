@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24c6dc&text=Callum%20White&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=data%20%C2%B7%20systems%20%C2%B7%20agents&descAlignY=58&descSize=20&animation=fadeIn" alt="Callum White banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=24C6DC&center=true&vCenter=true&width=620&lines=Building+data+platforms+in+London;Pipelines+%E2%86%92+models+%E2%86%92+insight;Python+%7C+Rust+%7C+SQL+%7C+Lua+%7C+C%2B%2B;Teaching+AI+agents+to+behave)](https://cjw-dev.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=24C6DC&center=true&vCenter=true&width=620&lines=Building+data+platforms+in+London;Pipelines+%E2%86%92+models+%E2%86%92+insight;Python+%7C+Rust+%7C+C%23+%7C+SQL+%7C+Lua+%7C+C%2B%2B;Teaching+AI+agents+to+behave)](https://cjw-dev.com)
 
 [![Website](https://img.shields.io/badge/cjw--dev.com-302b63?style=for-the-badge&logo=safari&logoColor=white)](https://cjw-dev.com)
 [![Location](https://img.shields.io/badge/London-24c6dc?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/CallumWalterWhite)
@@ -24,7 +24,8 @@ night_job: tinkering with Rust, Neovim and AI coding agents
 currently:
   - sketching better ways to keep AI agent sessions in sync
   - modelling company data with dbt + Dagster
-  - poking at distributed SQL engines
+  - building agentic analytics runtimes (langbridge)
+  - bridging Snowflake, Databricks and the big three clouds
 fun_fact:  I once simulated gravity in C++ just to watch things fall
 callum@london:~$ _
 ```
@@ -35,6 +36,7 @@ callum@london:~$ _
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -42,11 +44,16 @@ callum@london:~$ _
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=flat-square&logo=dagster&logoColor=white)
-![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -54,6 +61,8 @@ callum@london:~$ _
 
 | Project | What it does |
 | :-- | :-- |
+| [**langbridge**](https://github.com/langbridgedev/langbridge) `Python` | Open source, self-hostable agentic analytics runtime. Connectors, semantic models, federated queries, an MCP endpoint and a runtime UI. Work in progress. |
+| [**envoy-aspnetcore-microservices**](https://github.com/CallumWalterWhite/envoy-aspnetcore-microservices) `C#` | ASP.NET microservices behind an Envoy gateway. gRPC, RabbitMQ and MassTransit, MongoDB, Redis, PostgreSQL, CQRS and Clean Architecture. |
 | [**agentsync**](https://github.com/CallumWalterWhite/agentsync) `Rust` | Session continuity for AI coding agents. Resume, sync and recover conversations across devices and providers. |
 | [**expedition-signal**](https://github.com/CallumWalterWhite/expedition-signal) `Python` | Signal extraction for company intelligence. |
 | [**gravity_simulator**](https://github.com/CallumWalterWhite/gravity_simulator) `C++` | N-body gravity, rendered for the joy of it. |
